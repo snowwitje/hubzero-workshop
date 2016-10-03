@@ -3,11 +3,12 @@
 This repository contains slides from our team's most recent public demos and talks.
 
 ### MozFest 2016 ###
-We are excited to be taking part in MozFest 2016! Last year we led a discussion session on UX Design Challenges in Scientific Software. This time we'll host 3 sessions in the Open Science space on developing and sharing scientific simulation tools and online collaboration. Looking forward to meeting you in London!
+We are excited to be taking part in MozFest 2016! Last year we led a discussion session on [UX Design Challenges in Scientific Software](http://snowwitje.github.io/presentations/mozfest2015/#/). This time we'll host [3 sessions](http://tinyurl.com/mozfesthub) in the Open Science space on developing and sharing scientific simulation tools and online collaboration. Looking forward to meeting you in London!
 
 #### Session 1: ####
 [Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415)
  * Links to slides
+ * Link to Etherpad
 
 #### Session 2: ####
 
