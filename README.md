@@ -5,20 +5,23 @@ This repository contains slides from our team's most recent public demos and tal
 ### MozFest 2016 ###
 We are excited to be taking part in MozFest 2016! Last year we led a discussion session on [UX Design Challenges in Scientific Software](http://snowwitje.github.io/presentations/mozfest2015/#/). This time we'll host [3 sessions](http://tinyurl.com/mozfesthub) in the Open Science space on developing and sharing scientific simulation tools and online collaboration. Looking forward to meeting you in London!
 
-#### Session 1: ####
+#### SESSION 1: ####
 [Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415)
- * Links to slides
+ * Links to slides:
+	* [Using Simulation Workspace](https://snowwitje.github.io/presentations-hubzero/decks/tools-workshop-1/#/)
  * Link to Etherpad
 
-#### Session 2: ####
+#### SESSION 2: ####
 
 [SOS: Tips For Deploying Scientific Online Simulations and Data](https://github.com/MozillaFoundation/mozfest-program-2016/issues/820)
  * Links to slides
+ * Link to Etherpad
 
-#### Session 3: ####
+#### SESSION 3: ####
 
 [Building Open Scientific Communities: a hands-on dive into online collaboration tools](https://github.com/MozillaFoundation/mozfest-program-2016/issues/416)
  * Links to slides
+ * Link to Etherpad
 
 ## What's HUBzero?
 
