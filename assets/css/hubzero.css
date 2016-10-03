@@ -336,7 +336,6 @@ body {
 /*********************************************
  * Custom overwrites
  *********************************************/
-
 /* Title slide */
 .title-slide h5 {
 	text-transform: uppercase;
@@ -346,7 +345,10 @@ body {
 	padding: 0.3em 0.5em;
 	margin-top: 1em;
 }
-
+.tight {
+	margin: 0 !important;
+	padding: 0 !important;
+}
 .greyed {
 	color: #858ca5 !important;
 }
