@@ -336,10 +336,17 @@ body {
 /*********************************************
  * Custom overwrites
  *********************************************/
-.tight {
-	margin: 0 !important;
-	padding: 0 !important;
+
+/* Title slide */
+.title-slide h5 {
+	text-transform: uppercase;
+	background: #4c69c9;
+	color: white;
+	display: inline-block;
+	padding: 0.3em 0.5em;
+	margin-top: 1em;
 }
+
 .greyed {
 	color: #858ca5 !important;
 }
@@ -436,15 +443,6 @@ body {
 .uppercase {
 	text-transform: uppercase;
 }
-/*
-.twoborders {
-	display: inline-block;
-	padding: 0.3em !important;
-	color: #858ca5 !important;
-	margin-top: 1em !important;
-	border-top: 5px solid #858ca5 !important;
-}
-*/
 .twoborders {
 	display: inline-block;
 	padding: 0.3em !important;
