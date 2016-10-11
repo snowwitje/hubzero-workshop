@@ -8,6 +8,7 @@ We are excited to be taking part in MozFest 2016! Last year we led a discussion 
 #### SESSION: [Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415) ####
 
  * Links to slides:
+    * [Intro to HUBzero](https://snowwitje.github.io/presentations-hubzero/decks/intro-hubzero/#/)
 	* [Using Simulation Workspace](https://snowwitje.github.io/presentations-hubzero/decks/tools-workshop-1/#/)
  * Link to Etherpad
 
