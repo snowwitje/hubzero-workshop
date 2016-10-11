@@ -356,6 +356,15 @@ body {
 	padding: 0.3em 0.5em;
 	margin-top: 1em;
 }
+.title-slide h4 {
+	text-transform: uppercase;
+	background: #c9112b;
+	color: white;
+	font-size: 20pt;
+	display: inline-block;
+	padding: 0.5em 1em;
+	margin-bottom: 1em;
+}
 .tight {
 	margin: 0 !important;
 	padding: 0 !important;
@@ -450,6 +459,9 @@ body {
 	right: 0;
 	padding-right: 1em;
 }
+p.links span.block {
+	font-size: 0.8em !important;
+}
 .statements div p {
 	text-align: right;
 }
@@ -530,6 +542,9 @@ img.hubs {
 .features .hubs {
 	width: 670px;
 	text-align: left;
+}
+.features.usage {
+	background-image: url("../images/intro/usage.png");
 }
 .features img.usage {
 	width: 100%;
