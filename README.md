@@ -30,13 +30,10 @@ Join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 20
 
 This year we'll be hosting three sessions:
 
-#### Session 1: ####
-[Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415)
+#### Session 1: [Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415) ####
 
 #### Session 2: [SOS: Tips For Deploying Scientific Online Simulations and Data](https://github.com/MozillaFoundation/mozfest-program-2016/issues/820) ####
 
-#### Session 3: ####
-
-[Building Open Scientific Communities: a hands-on dive into online collaboration tools](https://github.com/MozillaFoundation/mozfest-program-2016/issues/416)
+#### Session 3: [Building Open Scientific Communities: a hands-on dive into online collaboration tools](https://github.com/MozillaFoundation/mozfest-program-2016/issues/416) ####
 
 
