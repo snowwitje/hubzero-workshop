@@ -10,18 +10,18 @@ Originally created by researchers at Purdue University in conjunction with the N
 Learn more at: [hubzero.org](https://hubzero.org)
 Follow us on twitter: [@hubzeroplatform](https://twitter.com/hubzeroplatform)
 
-### Getting Started ###
+## Getting Started ##
 CMS repository: https://github.com/hubzero/hubzero-cms
 
 Instructions for installing the HUBzero platform from packages can be found at http://hubzero.org/documentation/current/installation.
 
 Both user and developer documentation for the CMS can be found at https://hubzero.org/documentation/current.
 
-### Contributing ###
+## Contributing ##
 
-### Participation Guidelines ###
+## Participation Guidelines ##
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to support@hubzero.org.
 
 ## MozFest 2016 ##
 Join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 2016 at Ravensbourne College, London! We'll be meeting in person to collaborate on this project and learn from each other.
@@ -33,9 +33,8 @@ This year we'll be hosting three sessions:
 #### Session 1: ####
 [Build and Share a Scientific Simulation Tool](https://github.com/MozillaFoundation/mozfest-program-2016/issues/415)
 
-#### Session 2: ####
-
-[SOS: Tips For Deploying Scientific Online Simulations and Data](https://github.com/MozillaFoundation/mozfest-program-2016/issues/820)
+#### Session 2: 
+[SOS: Tips For Deploying Scientific Online Simulations and Data](https://github.com/MozillaFoundation/mozfest-program-2016/issues/820) ####
 
 #### Session 3: ####
 
