@@ -8,6 +8,7 @@ HUBzero® is an open source software platform for building powerful Web sites th
 Originally created by researchers at Purdue University in conjunction with the NSF-sponsored Network for Computational Nanotechnology to support nanoHUB.org, the HUBzero platform now supports dozens of hubs across a variety of disciplines, including cancer research, pharmaceuticals, biofuels, microelectromechanical systems, climate modeling, water quality, volcanology, and more.
 
 Learn more at: [hubzero.org](https://hubzero.org)
+
 Follow us on twitter: [@hubzeroplatform](https://twitter.com/hubzeroplatform)
 
 ## Getting Started ##
@@ -18,8 +19,14 @@ Instructions for installing the HUBzero platform from packages can be found at h
 Both user and developer documentation for the CMS can be found at https://hubzero.org/documentation/current.
 
 ## Contributing ##
-Thanks for your interest in contributing to HUBzero! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
-Code contribution guidelines can be found at https://hubzero.org/about/contributions
+
+Thanks for your interest in contributing to HUBzero! There are many ways to contribute.
+
+* [Code contribution guidelines](https://hubzero.org/about/contributions)
+* [Report a bug](https://hubzero.org/support/ticket/new)
+* [Suggest a new feature or improvement](https://hubzero.org/wishlist/)
+
+For more info take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines ##
 
