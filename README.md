@@ -1,5 +1,5 @@
 # The HUBzero® Platform for Scientific Collaboration
-This repository contains materials and slides from our team's most recent public demos, hackathons and workshops.
+This repository contains materials and slides from our team's most recent public demos, hackathons and workshops. For CMS code and contributing visit [HUBzero CMS repository](https://github.com/hubzero/hubzero-cms).
 
 ## What's HUBzero?
 
@@ -18,6 +18,8 @@ Instructions for installing the HUBzero platform from packages can be found at h
 Both user and developer documentation for the CMS can be found at https://hubzero.org/documentation/current.
 
 ## Contributing ##
+Thanks for your interest in contributing to HUBzero! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Code contribution guidelines can be found at https://hubzero.org/about/contributions
 
 ## Participation Guidelines ##
 
